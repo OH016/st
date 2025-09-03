@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Cascadia Mono:pixelsize=28";
+static char *font = "Cascadia Mono:pixelsize=32";
 static int borderpx = 8;
 
 /*
@@ -121,7 +121,7 @@ static const char *colorname[] = {
 	"#cccccc",
 	"#555555",
 	"gray90", /* default foreground colour */
-	"black", /* default background colour */
+	"#131822", /* default background colour */
 };
 
 
